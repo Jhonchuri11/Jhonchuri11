@@ -8,5 +8,5 @@
 
 
 <div align="center">
-  <img src="https://github.com/Jhonchuri11/Jhonchuri11/blob/main/Churi2.png" alt="Card header"/>
+  <img src="https://github.com/Jhonchuri11/Jhonchuri11/blob/main/Churi2.png" alt="Card header" width="820"/>
 </div>
