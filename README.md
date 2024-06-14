@@ -39,5 +39,5 @@
 </div>
 <hr>
 <div align="center">
-  La creencia de este mundo es creer en tí, pero no puedes solo, necesitar volver a tu creador.º
+  La enseñanza de este mundo es creer en tí, pero no puedes solo, necesitar volver a tu creador.º
 </div>
