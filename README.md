@@ -16,15 +16,13 @@
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   </p>
-
-  <br>
 </div>
 
 # Welcome! 😃 *♥!*
  <🐼> Sobre mi </🐼>
 <pre>
-   - Estudiante de Diseño y Desarrollo de Software en Tecsup 2022;
-   - Aprendiendo y mejorando cada día!;
+   Estudiante de Diseño y Desarrollo de Software en Tecsup 2022
+   Aprendiendo y mejorando cada día
 </pre>
 
 <br>
