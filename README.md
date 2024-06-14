@@ -11,5 +11,5 @@
 
 
 <div align="center">
-  <img src="https://github.com/Jhonchuri11/Jhonchuri11/blob/main/Churivanti.png" alt="Card header"/>
+  <img src="https://github.com/Jhonchuri11/Jhonchuri11/blob/main/Churi.png" alt="Card header"/>
 </div>
