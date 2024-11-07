@@ -21,8 +21,8 @@
 # Welcome 😃 *♥!*
  <🐼> Sobre mí </🐼>
 <pre>
-   Actualmente, estudiante de Diseño y Desarrollo de Software en Tecsup 2022
-   Aprendiendo y mejorando cada día
+   - Actualmente, estudiante de Diseño y Desarrollo de Software en Tecsup 2022.
+   - Aprendiendo y mejorando cada día.
 </pre>
 
 <br>
