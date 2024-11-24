@@ -36,6 +36,16 @@
   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
 </div>
 <hr>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Jhonchuri11">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jhonchuri11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jhonchuri11&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <div align="center">
   La enseñanza de este mundo es creer en tí, pero no puedes solo, necesitar volver a tu creador.º
 </div>
