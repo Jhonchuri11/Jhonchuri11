@@ -18,7 +18,7 @@
   </p>
 </div>
 
-# Welcome 😃 *♥!*
+# Welcome 😃 *!*
  <> Sobre mí </>
 <pre>
    - Actualmente estudiante de Diseño y Desarrollo de Software en Tecsup 2022.
