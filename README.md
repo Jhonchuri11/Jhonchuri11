@@ -21,7 +21,7 @@
 # Welcome *:D*
  <> Sobre mí </>
 <pre>
-   - Actualmente estudiante de Diseño y Desarrollo de Software en Tecsup 2022.
+   - Estudiante técnico de Diseño y Desarrollo de Software en Tecsup 2022-2024.
    - Aprendiendo y mejorando cada día.
    - A continuación encontrará mis proyectos integradores realizados como estudiante.
 </pre>
